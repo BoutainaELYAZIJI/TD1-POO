@@ -1,6 +1,6 @@
 # 📚 TD1 Correction – Java Object-Oriented Programming
 
-This repository contains the correction of **TD1 (Série N°1)** for 1st-year engineering students at INSEA, as part of the "Programmation Orientée Objet en Java" course — academic year **2024–2025**.
+This repository contains the correction of **TD1 (Série N°1)** for 1st-year engineering students at INSEA, as part of the *Programmation Orientée Objet en Java* course — academic year **2024–2025**.
 
 ## 📌 Objectives of the Assignment
 
@@ -35,19 +35,20 @@ Implemented in `src/partie2/`:
 - `MainProjet.java`: Tests for the above logic
 
 ---
+
 ## 🔧 Getting Started
 
 To use this correction locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/BoutainaELYAZIJI/nom-du-repo.git](https://github.com/BoutainaELYAZIJI/TD1-POO.git)
-   
+   git clone https://github.com/BoutainaELYAZIJI/TD1-POO.git
+
 ## 🚀 How to Run
 
 1. Open the project with any Java IDE (e.g., Eclipse or IntelliJ).
 2. Run the `Main.java` and `MainProjet.java` classes to test both parts.
-3. For command-line tests in Partie 1, you can pass arguments via `args[]` in `main`.
+3. For command-line tests in Partie 1, you can pass arguments aia `args[]` in `main`.
 
 ---
 
@@ -59,7 +60,15 @@ To use this correction locally:
 ---
 
 ## 📂 Project Tree
-src/ ├── partie1/ │ ├── ChaineCaractere.java │ ├── Main.java │ └── tesst.java └── partie2/ ├── Tache.java ├── Projet.java └── MainProjet.java
+src/
+├── partie1/
+│   ├── ChaineCaractere.java
+│   ├── Main.java
+│   └── tesst.java
+└── partie2/
+    ├── Tache.java
+    ├── Projet.java
+    └── MainProjet.java
 
 
 
