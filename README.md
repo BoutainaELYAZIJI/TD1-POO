@@ -71,6 +71,4 @@ src/
     ├── Projet.java
     └── MainProjet.java
 
-
-
 > Feel free to fork and use for learning or sharing with classmates. Happy coding! ☕
