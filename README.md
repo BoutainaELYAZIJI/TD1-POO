@@ -40,7 +40,7 @@ Implemented in `src/partie2/`:
 
 To use this correction locally:
 
-**Clone the repository**:
+ 1. **Clone the repository**:
    ```bash
    git clone https://github.com/BoutainaELYAZIJI/TD1-POO.git
 
