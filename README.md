@@ -58,8 +58,9 @@ To use this correction locally:
 - Eclipse Project Format
 
 ---
-
 ## 📂 Project Tree
+
+```
 src/
 ├── partie1/
 │   ├── ChaineCaractere.java
@@ -69,5 +70,7 @@ src/
     ├── Tache.java
     ├── Projet.java
     └── MainProjet.java
+```
+
 
 > Feel free to fork and use for learning or sharing with classmates. Happy coding! ☕
