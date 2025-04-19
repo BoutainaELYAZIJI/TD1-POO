@@ -52,14 +52,8 @@ Implemented in `src/partie2/`:
 ---
 
 ## 📂 Project Tree
+src/ ├── partie1/ │ ├── ChaineCaractere.java │ ├── Main.java │ └── tesst.java └── partie2/ ├── Tache.java ├── Projet.java └── MainProjet.java
 
-src/ ├── partie1/ │ 
-        ├── ChaineCaractere.java │ 
-        ├── Main.java │ 
-        └── tesst.java 
-      └── partie2/ 
-        ├── Tache.java 
-        ├── Projet.java 
-        └── MainProjet.java
+
 
 > Feel free to fork and use for learning or sharing with classmates. Happy coding! ☕
