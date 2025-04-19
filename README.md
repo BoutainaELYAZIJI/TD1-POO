@@ -35,7 +35,14 @@ Implemented in `src/partie2/`:
 - `MainProjet.java`: Tests for the above logic
 
 ---
+## 🔧 Getting Started
 
+To use this correction locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone [https://github.com/BoutainaELYAZIJI/nom-du-repo.git](https://github.com/BoutainaELYAZIJI/TD1-POO.git)
+   
 ## 🚀 How to Run
 
 1. Open the project with any Java IDE (e.g., Eclipse or IntelliJ).
