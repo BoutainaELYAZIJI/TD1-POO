@@ -60,7 +60,6 @@ To use this correction locally:
 ---
 
 ## 📂 Project Tree
-
 src/
 ├── partie1/
 │   ├── ChaineCaractere.java
